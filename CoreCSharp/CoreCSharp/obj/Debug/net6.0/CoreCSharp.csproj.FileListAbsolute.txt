@@ -1,0 +1,28 @@
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.exe
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.deps.json
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.runtimeconfig.json
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.dll
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.pdb
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.AssemblyInfoInputs.cache
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.AssemblyInfo.cs
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.dll
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\refint\CoreCSharp.dll
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.pdb
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.genruntimeconfig.cache
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\ref\CoreCSharp.dll
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.exe
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.deps.json
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.runtimeconfig.json
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.dll
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\bin\Debug\net6.0\CoreCSharp.pdb
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.AssemblyInfoInputs.cache
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.AssemblyInfo.cs
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.dll
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\refint\CoreCSharp.dll
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.pdb
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\CoreCSharp.genruntimeconfig.cache
+C:\Users\ondre\OneDrive\Plocha\GitHub Folders\.NET\1 C#\CoreCSharp\CoreCSharp\obj\Debug\net6.0\ref\CoreCSharp.dll
