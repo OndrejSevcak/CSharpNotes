@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\.NET\\1 C#\\CoreCSharp\\CoreCSharp\\CoreCSharp.csproj": {}
+    "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\C#Notes\\CoreCSharp\\CoreCSharp\\CoreCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\.NET\\1 C#\\CoreCSharp\\CoreCSharp\\CoreCSharp.csproj": {
+    "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\C#Notes\\CoreCSharp\\CoreCSharp\\CoreCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\.NET\\1 C#\\CoreCSharp\\CoreCSharp\\CoreCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\C#Notes\\CoreCSharp\\CoreCSharp\\CoreCSharp.csproj",
         "projectName": "CoreCSharp",
-        "projectPath": "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\.NET\\1 C#\\CoreCSharp\\CoreCSharp\\CoreCSharp.csproj",
+        "projectPath": "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\C#Notes\\CoreCSharp\\CoreCSharp\\CoreCSharp.csproj",
         "packagesPath": "C:\\Users\\ondre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\.NET\\1 C#\\CoreCSharp\\CoreCSharp\\obj\\",
+        "outputPath": "C:\\Users\\ondre\\OneDrive\\Plocha\\GitHub Folders\\C#Notes\\CoreCSharp\\CoreCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ondre\\AppData\\Roaming\\NuGet\\NuGet.Config",

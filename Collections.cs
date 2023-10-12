@@ -1,4 +1,4 @@
-﻿using Collections;
+using Collections;
 
 //Collections and data structures documentation: https://learn.microsoft.com/en-us/dotnet/standard/collections/
 
